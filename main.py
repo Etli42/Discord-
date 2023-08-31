@@ -25,4 +25,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTE0NDMyOTgzOTAxMzI4NTkyOA.Gb3RDK.jLWcJDf2i4qY35Sf2whftQgmoE0yh-G8gHr-VI")
+client.run("empty boş")
